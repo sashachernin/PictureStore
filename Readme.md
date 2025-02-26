@@ -100,3 +100,6 @@ The application will be available at http://localhost:5173/
 - **Frontend**:
   - React
   - Vite
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/802507f9-1d3c-46b6-bb15-370565511cf0)

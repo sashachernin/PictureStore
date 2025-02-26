@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureStore.Service", "PictureStore.Logic\PictureStore.Service.csproj", "{F1F82838-3AA7-4EC9-B7C9-6502CA662AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureStore.Data", "PictureStore.Data\PictureStore.Data.csproj", "{19D21692-36B8-4BFC-837F-86E5E5F790E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureStore.Common", "PictureStore.Common\PictureStore.Common.csproj", "{08EA2821-2361-4686-AD3A-E297757DA5C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureStore.Tests", "PicturesStore.Tests\PictureStore.Tests.csproj", "{57997BD1-F974-49A4-95A6-3177C5E715FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureStore.API", "PictureStore.API\PictureStore.API.csproj", "{69AE01D7-D9E4-4A08-937C-1A01B8D9B722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F82838-3AA7-4EC9-B7C9-6502CA662AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F82838-3AA7-4EC9-B7C9-6502CA662AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F82838-3AA7-4EC9-B7C9-6502CA662AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F82838-3AA7-4EC9-B7C9-6502CA662AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D21692-36B8-4BFC-837F-86E5E5F790E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D21692-36B8-4BFC-837F-86E5E5F790E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D21692-36B8-4BFC-837F-86E5E5F790E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D21692-36B8-4BFC-837F-86E5E5F790E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08EA2821-2361-4686-AD3A-E297757DA5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EA2821-2361-4686-AD3A-E297757DA5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EA2821-2361-4686-AD3A-E297757DA5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EA2821-2361-4686-AD3A-E297757DA5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57997BD1-F974-49A4-95A6-3177C5E715FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57997BD1-F974-49A4-95A6-3177C5E715FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57997BD1-F974-49A4-95A6-3177C5E715FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57997BD1-F974-49A4-95A6-3177C5E715FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AE01D7-D9E4-4A08-937C-1A01B8D9B722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AE01D7-D9E4-4A08-937C-1A01B8D9B722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AE01D7-D9E4-4A08-937C-1A01B8D9B722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AE01D7-D9E4-4A08-937C-1A01B8D9B722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

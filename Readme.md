@@ -12,6 +12,7 @@ A web application for storing pictures. The application consists of a React fron
     - [Frontend Setup](#frontend-setup)
 - [API Documentation](#api-documentation)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 
 ## Project Structure
 
